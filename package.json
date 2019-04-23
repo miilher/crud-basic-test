@@ -1,6 +1,9 @@
 {
   "name": "crud-basic-test",
   "version": "0.0.0",
+  "engines": {
+    "node": "10.3.0"
+  },
   "license": "MIT",
   "scripts": {
     "ng": "ng",
